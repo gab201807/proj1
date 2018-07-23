@@ -1,8 +1,9 @@
-#include <stdio.h>
+#include <iostream>
 
-using std;
+using namespace std;
 
-int main(){
+int main()
+{
 	cout << "Hello GitHub" << endl;
 	return 0;
 }
